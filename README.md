@@ -1,8 +1,10 @@
 # 🌈 Rainbow Trails
 
-TRANSFORM your BORING, regular Vim cursor into a delightful UNICORN that scatters RAINBOW dust as it GALLOPS around the buffer.[^1]
+TRANSFORM your BORING, regular Vim cursor into a delightful UNICORN that scatters RAINBOW dust as it GALLOPS around the buffer.
 
 Fork from: [sedm0784/vim-rainbow-trails](https://github.com/sedm0784/vim-rainbow-trails)
+
+This fork intends to be a full rewrite in #Lua for #Neovim
 
 ![A short Vim session. Vim is showing the :help page for the Rainbow Trails plugin. The command :Rainbow Trails is entered, and then the cursor is moved rapidly around the window, leaving rainbows behind it as it zips about.](https://normalmo.de/plugins/images/rainbow-trailser.gif)
 
